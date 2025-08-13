@@ -8,7 +8,7 @@ Long-term prediction of three-dimensional (3D) turbulent flows is one of the mos
 
 ## Dataset
 
-The datasets are now uploading to Kaggle. The link will be provided here. Please wait.
+The datasets can downloaded at [IAFNO_fDNS_kaggle](https://www.kaggle.com/datasets/yuchirichardjiang/coarsened-fdns-data-iafno).
 
 ## Citation
 
