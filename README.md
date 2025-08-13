@@ -22,4 +22,4 @@ arXiv version:
 }
 ```
 
-This manuscript has been accepted by Acta Mechanica Sinica with an assigned DOI: 10.1007/s10409-025-25478-x. When the final version of the article provided by the journal becomes retrievable, please cite it using the information of the final version. Many thanks.
+This manuscript has been accepted by Acta Mechanica Sinica. When the final version of the article provided by the journal becomes retrievable, please cite it using the information of the final version. Many thanks.
